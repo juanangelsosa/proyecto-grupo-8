@@ -1,0 +1,37 @@
+body {
+
+    background-color: rgb(250, 150, 0);
+    margin: auto;
+    padding: 10%;
+    box-sizing: border-box;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.form {
+
+    width: 600px;
+    background-color: rgba(255, 196, 0, 0.884);
+    padding: 8px;
+    margin: 10px;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.camposForm {
+    width: 80%;
+    background: rgba(255, 196, 0, 0.884);
+    padding: 15px;
+    margin-left: 5px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+
+}
